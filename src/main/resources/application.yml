@@ -1,0 +1,15 @@
+server:
+  port: 9999
+
+spring:
+  datasource:
+    url: jdbc:mariadb:sequential://localhost:3306/exampledb?autoReconnect=true&useSSL=false&createDatabaseIfNotExist=true
+    driver-class-name: org.mariadb.jdbc.Driver
+    username: root
+    password: root
+
+  jpa:
+    properties:
+      database-platform: org.hibernate.dialect.MySQL5Dialect
+    hibernate:
+      ddl-auto: update
