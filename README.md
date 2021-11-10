@@ -1,12 +1,13 @@
-1. Code generation, class hierarchy navigation - Open Circle.java (`shift + cmd + o`)
-2. Over-dot completion - Open (`shift + cmd + o`) DatabaseEvaluator.java
-3. Multiple cursors - Open (`shift + cmd + o`) Loan.java 
-4. Multiple cursors 2 - Open (`shift + cmd + o`) `FPD`
-5. Tab completion, live templates - Open `LH`
-6. Posfix notation, surround with - Open (`shift + cmd + o`) `NH`
-7. Code refactor - Open `BCNR`
-8. Method navigation - Open `LOMH`
-9. Multiple clipboards - Follow the instructions at the bottom of this file
+1. Open CircleTest.java (`shift + cmd + o`). Press `option + F1` and `enter` to navigate to the file and delete it.
+2. Code generation, class hierarchy navigation - Open Circle.java (`shift + cmd + o`)
+3. Over-dot completion - Open (`shift + cmd + o`) DatabaseEvaluator.java
+4. Multiple cursors - Open (`shift + cmd + o`) Loan.java 
+5. Multiple cursors 2 - Open (`shift + cmd + o`) `FPD`
+6. Tab completion, live templates - Open `LH`
+7. Posfix notation, surround with - Open (`shift + cmd + o`) `NH`
+8. Code refactor - Open `BCNR`
+9. Method navigation - Open `LOMH`
+10. Multiple clipboards - Follow the instructions at the bottom of this file
 
 Bonus:
 1. Code execution in the debugger - Open `DM`
